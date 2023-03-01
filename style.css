@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+}
+
+.custom-header{
+    background-color: #2C3E50 ;
+}
+
+.custom-header a{
+    color: white;
+}
+
+.custom-navbar{
+    background-color: #616A6B  !important;
+
+}
+
+.custom-navbar ul li a{
+    color: white !important;
+    /* font-weight: bold; */
+    font-family: verdana !important;
+}
+
+.carousel-inner{
+    height: 80vh;
+}
+
+.carousel-item img{
+    height: 100%;
+}
+
+.card img{
+    height: 200px;
+}
